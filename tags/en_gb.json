@@ -16,6 +16,90 @@
       "colour": "#ffff7f"
     },
     {
+      "tag": "hj",
+      "aliases": [],
+      "long": "halfjoking",
+      "definition": "Half joking",
+      "description": "This tone indicator shows that the text or post is half joking and should not fully be taken seriously but is not just a joke.",
+      "emoji": [
+        "😉",
+        "😏"
+      ],
+      "colour": "#ffb45e"
+    },
+    {
+      "tag": "lhj",
+      "aliases": [],
+      "long": "lighthearted-joke",
+      "definition": "Lighthearted joke",
+      "description": "This tone indicator shows that the text or post is a lighthearted joke and is not meant to be rude or offensive.",
+      "emoji": [
+        "😋",
+        "😛"
+      ],
+      "colour": "#ff7f7f"
+    },
+    {
+      "tag": "mj",
+      "aliases": [],
+      "long": "mostly-joking",
+      "definition": "Mostly joking",
+      "description": "This tone indicator shows that the text or post is mostly joking and should not be taken seriously but might have some truth to it.",
+      "emoji": [
+        "🤣",
+        "😆"
+      ],
+      "colour": "#e05616"
+    },
+    {
+      "tag": "cj",
+      "aliases": [],
+      "long": "coping-joke",
+      "definition": "Coping joke",
+      "description": "This tone indicator shows that the text or post is joke for the purpose of coping with a situation.",
+      "emoji": [
+        "😅",
+        "😶"
+      ],
+      "colour": "#aa2800"
+    },
+    {
+      "tag": "ji",
+      "aliases": [],
+      "long": "joke-insult",
+      "definition": "Joke insult",
+      "description": "This tone indicator shows that the text or post is a joke insult and is not meant to cause offence.",
+      "emoji": [
+        "😜",
+        "🤭"
+      ],
+      "colour": "#aa004a"
+    },
+    {
+      "tag": "ij",
+      "aliases": [],
+      "long": "inside-joke",
+      "definition": "Inside joke",
+      "description": "This tone indicator shows that the text or post is an inside joke and is not expected to be understood by anyone else.",
+      "emoji": [
+        "😆",
+        "🤫"
+      ],
+        "colour": "#8045aa"
+    },
+    {
+      "tag": "t",
+      "aliases": [],
+      "long": "teasing",
+      "definition": "Teasing",
+      "description": "This tone indicator shows that the text or post is just teasing and isn't meant negatively.",
+      "emoji": [
+        "😉",
+        "😏"
+      ],
+        "colour": "#ffcf81"
+    },
+    {
       "tag": "s",
       "aliases": [],
       "long": "sarcasm",
