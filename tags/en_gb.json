@@ -6,22 +6,26 @@
     {
       "tag": "j",
       "aliases": [],
-      "definition": "joking",
+      "long": "joking",
+      "definition": "Joking",
       "description": "This tone indicator shows that the text or post is a joke and not meant to be taken seriously.",
       "emoji": [
         "😜",
         "😆"
-      ]
+      ],
+      "colour": "#ffff7f"
     },
     {
       "tag": "s",
       "aliases": [],
-      "definition": "sarcasm",
+      "long": "sarcasm",
+      "definition": "Sarcasm",
       "description": "This tone indicator shows that the text or post is sarcastic and should not be taken as a genuine statement",
       "emoji": [
         "🙃",
         "🫠"
-      ]
+      ],
+      "colour": "#eab543"
     }
   ]
 }
