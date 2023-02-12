@@ -1,0 +1,26 @@
+{
+  "version": "1",
+  "id": "en_gb",
+  "name": "English (UK)",
+  "indicators": [
+    {
+      "tag": "j",
+      "aliases": [],
+      "definition": "joking",
+      "description": "This tone indicator shows that the text or post is a joke and not meant to be taken seriously.",
+      "emoji": [
+        "😜",
+        "😆"
+      ]
+    },
+    {
+      "tag": "s",
+      "aliases": [],
+      "definition": "sarcasm",
+      "description": "This tone indicator shows that the text or post is sarcastic and should not be taken as a genuine statement",
+      "emoji": [
+        "🙃"
+      ]
+    }
+  ]
+}
