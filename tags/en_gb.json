@@ -19,7 +19,8 @@
       "definition": "sarcasm",
       "description": "This tone indicator shows that the text or post is sarcastic and should not be taken as a genuine statement",
       "emoji": [
-        "🙃"
+        "🙃",
+        "🫠"
       ]
     }
   ]
